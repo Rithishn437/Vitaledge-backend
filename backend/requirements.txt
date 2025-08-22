@@ -1,0 +1,8 @@
+flask
+flask-cors
+pytesseract
+pillow
+scikit-learn
+numpy
+requests
+openpyxl
